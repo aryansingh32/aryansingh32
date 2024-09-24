@@ -1,34 +1,7 @@
-💻 Welcome to [Aryan Singh]'s GitHub! 👋
-Hi! I’m [Aryan Singh], 
-A passionate Cybersecurity Student and aspiring Java Developer. Currently, I'm focusing on various aspects of cybersecurity and software development, with a strong interest in automation, scripting, and real-time applications.
-
-🔍 About Me
-🎓 Current Focus: Cybersecurity | Java | Real-Time Applications
-🛠️ Tech Stack:
-Languages: Java, Python, Bash
-Tools: Git, Docker, Linux (Lubuntu), Audacity
-Frameworks: OpenAI Whisper, Streamlit, Gradio
-🌱 Learning:
-Advanced Java
-Real-time transcription using Whisper
-Cloud environments like Google Colab
-🔒 Cybersecurity Enthusiast: I enjoy learning about network security, ethical hacking, and cryptography.
-🤖 Current Projects:
-Working on a real-time speech-to-text application using Whisper and Colab.
-Exploring the intersection of AI and cybersecurity.
-🌟 My Goals
-Become proficient in cybersecurity and development tools.
-Build efficient, real-time applications for transcription and note-taking.
-Contribute to open-source projects related to AI and security.
-📂 Featured Projects
-Whisper Live Transcription: A real-time transcription system for lectures using Whisper.
-Java Algorithms: Exploring data structures and algorithms with Java.
-📫 Connect with Me
-GitHub: [On GitHub Profile](https://github.com/aryansingh32)
-LinkedIn: [On LinkedIn Profile](https://www.linkedin.com/in/aryan-singh-24278632a/)
-💡 How to Use My Projects
-Most of my repositories include detailed README files with installation instructions. Feel free to fork, clone, and contribute to any of the projects!
-<!---
-aryansingh32/aryansingh32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">My name is Aryan Singh and I'm a Cybersecurity Student and aspiring Java Developer, from India.</p>
+<h2 align="left">About me</h2>
+<p align="left">✨ Creating bugs since I started programming in 2020.<br>📚 I'm currently learning advanced Java, real-time transcription with Whisper, and cybersecurity concepts.<br>🎯 Goals: Build real-time applications and contribute to open-source projects focused on AI and security.<br>🎲 Fun fact: I love working with AI models, and when I'm not coding, I'm exploring the world of ethical hacking!</p>
+<h2 align="left">I code with</h2>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /> </div>
+<h2 align="left">Connect with me</h2> <p align="left"> <a href="https://github.com/aryansingh32" target="_blank"> <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/aryan-singh-24278632a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
