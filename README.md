@@ -24,8 +24,8 @@ Contribute to open-source projects related to AI and security.
 Whisper Live Transcription: A real-time transcription system for lectures using Whisper.
 Java Algorithms: Exploring data structures and algorithms with Java.
 📫 Connect with Me
-GitHub: [My GitHub Profile](https://github.com/aryansingh32)
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aryan-singh-24278632a/)
+GitHub: [On GitHub Profile](https://github.com/aryansingh32)
+LinkedIn: [On LinkedIn Profile](https://www.linkedin.com/in/aryan-singh-24278632a/)
 💡 How to Use My Projects
 Most of my repositories include detailed README files with installation instructions. Feel free to fork, clone, and contribute to any of the projects!
 <!---
